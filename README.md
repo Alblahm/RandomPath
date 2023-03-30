@@ -15,6 +15,8 @@ git clone https://github.com/fmcp/jetson_course_advanced
 
 https://github.com/Alblahm/RandomPath/blob/2e7191e730578c38ba042466494b607eb12d9a8d/RandomPath.ipynb
 
+* Example1: [Open in Github Codespace](https://github.com/Alblahm/RandomPath/blob/2e7191e730578c38ba042466494b607eb12d9a8d/RandomPath.ipynb)
+
 * Example1: [Open in Github Codespace](https://alblahm-verbose-lamp-vpp6q9qg9q73wgxg.github.dev/)
 
 * Example1: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O60VH-dH2JrTpcKJh9LCqdxsq2RVlgcv)
