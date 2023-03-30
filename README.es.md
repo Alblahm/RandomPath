@@ -11,7 +11,7 @@ git clone https://github.com/Alblahm/RandomPath.git
 cd RandomPath
 jupyter notebook
 ```
-### Ejecución en la nuba
+### Ejecución en la nube
 También puedes probar este código en tu navegador sin necesidad de instalar nada en tu ordenador.
 * Ejecución del modelo ([RandomPath.ipynb](RandomPath.ipynb)):
   *  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alblahm/RandomPath/HEAD?labpath=RandomPath.ipynb)
