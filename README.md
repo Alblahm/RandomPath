@@ -16,6 +16,7 @@ You can also directly run this code on your web browser without anything install
 * Model explanation ([RandomPath.ipynb](RandomPath.ipynb)):
   *  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alblahm/RandomPath/HEAD?labpath=RandomPath.ipynb)
   *  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alblahm/RandomPath/blob/master/RandomPath.ipynb)
-  *  [![Github Codespaces](Codespaces.png)](https://alblahm-verbose-lamp-vpp6q9qg9q73wgxg.github.dev/)
+  *  [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://alblahm-verbose-lamp-vpp6q9qg9q73wgxg.github.dev/)
+  *  Create your own Codespace [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=Alblahm/RandomPath&machine=basicLinux32gb&location=WestEurope)
 
 
