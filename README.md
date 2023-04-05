@@ -15,7 +15,7 @@ jupyter notebook
 You can also directly run the [RandomPath.ipynb](notebooks/RandomPath.ipynb) notebook on your web browser without anything installed on your computer.
   * Launch the Notebook using Binder (You can use it as a guest). Remember to shut-down the server after you finished using the simulator.
 
-    ... [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alblahm/RandomPath/notebooks/HEAD?labpath=RandomPath.ipynb)
+    ... [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alblahm/RandomPath/HEAD?labpath=notebooks/RandomPath.ipynb)
   * Launch the Notebook inside Google Colab (It just needs a Google account).
 
     ... [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alblahm/RandomPath/notebooks/blob/master/RandomPath.ipynb)
